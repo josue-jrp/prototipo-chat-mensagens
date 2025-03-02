@@ -1,0 +1,11 @@
+# bloco de notas para elaborar os objetivos diários, disseminar ideias novas para o projeto e organização mental:
+
+# preciso fazer com que as opções de menu sempre fiquem por ultima coisa que aparece no terminal
+	# talvez eu possa utilizar uma classe para organizar esse menu ao invés de em um dicionário como eu estou fazendo agora
+
+# preciso fazer um sistema de login no servidor, de modo que os clientes precisem informar suas credenciais.
+	# se a senha ou nome de usuário estiver incorreto, a conexão será encerrada.
+
+# após o cliente se conectar ao servidor, ele visualizará uma lista que informará o nome de outros usuários cadastrados no "banco de dados"
+  do servidor e também saberá se cada usuário está online ou não
+

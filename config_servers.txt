@@ -1,0 +1,2 @@
+main-server-active = False
+server-logs-active = False
